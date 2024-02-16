@@ -1959,6 +1959,9 @@ namespace implementation {
 		{583, parrot_common}, //Netrani mobile without modem
 		{613, parrot_common}, //Netrani APQ
 		{631, parrot_common},
+		{633, parrot_common}, //Netrani Gaming SKU with modem
+		{634, parrot_common}, //Netrani Gaming SKU without modem
+		{638, parrot_common}, //SM7435P
 		{549, anorak_common},
 		{568, ravelin_common}, //Clarence Mobile
 		{581, ravelin_common}, //Clarence IOT
